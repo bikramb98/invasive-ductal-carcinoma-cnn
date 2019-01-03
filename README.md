@@ -1,1 +1,1 @@
-# invasive-ductal-carcinoma-cnn
+# Predicting Invasive Ductal Carcinoma using Convolutional Neural Network in Keras
